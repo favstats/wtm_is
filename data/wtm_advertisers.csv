@@ -1,0 +1,38 @@
+id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_active,entities.is_political,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
+13b906e7-6c13-4319-bbfc-4357dfa98b73,Sjálfstæðisfélag Seltirninga,2023-03-07T10:54:52.619Z,91d8fba0-29ac-4571-a3fa-a58e01540251,D,true,true,Iceland,is,396010277151129,Sjálfstæðisfélag Seltirninga,Facebook
+1a6f2962-bd57-4215-acd7-2e828a868db9,Sjálfstæðisflokkurinn í Hafnarfirði,2023-02-08T05:54:33.778Z,6f43e654-466a-4e9c-9671-1d2db3b25031,D,true,true,Iceland,is,74969168478,Sjálfstæðisflokkurinn í Hafnarfirði,Facebook
+2b7723f1-ebf8-4b62-bcf5-e263e603fa65,Ragnhildur Alda M. Vilhjálmsdóttir,2023-03-08T14:46:34.295Z,119ae1c8-2688-47d6-801a-eb9d80bb9b72,D,true,true,Iceland,is,106430331983242,Ragnhildur Alda M. Vilhjálmsdóttir,Facebook
+2f5ad2b0-698c-4c65-8c9b-dabb33c15d8a,Sjálfstæðisflokkurinn í Reykjavík,2023-02-20T10:54:55.205Z,d24562ea-402f-4ec6-832d-61844aff243b,D,true,true,Iceland,is,201037343748,Sjálfstæðisflokkurinn í Reykjavík,Facebook
+4151ae62-21dd-4bf6-a889-a9d0261706fc,Sjálfstæðisflokkurinn í Fjarðabyggð,2023-03-08T14:46:34.295Z,5be0b68c-1b01-4e90-ab0d-5e874643e5cb,D,true,true,Iceland,is,110388085667093,Sjálfstæðisflokkurinn í Fjarðabyggð,Facebook
+55b1976c-60fa-4526-8f45-c5ec41ed70cd,Sjálfstæðisflokkurinn í Skagafirði,2023-07-07T13:17:42.587Z,af98604b-d266-463d-9c6b-b262e8a98b92,D,true,true,Iceland,is,641862405888790,Sjálfstæðisflokkurinn í Skagafirði,Facebook
+78240b0d-ff87-4092-8aaf-a4517fa22d68,Sjálfstæðisfélag Garðabæjar,2023-02-28T10:55:03.785Z,cb733ca2-4803-41b6-8677-b2d79102a8d9,D,true,true,Iceland,is,263095547109656,Sjálfstæðisfélag Garðabæjar,Facebook
+9002a7cd-2ebc-46ea-ba73-0f94c40ddcbc,Sjálfstæðisflokkurinn í Reykjanesbæ,2023-03-08T18:11:16.821Z,0d501909-3542-414a-8ecd-bad98061521d,D,true,true,Iceland,is,202456013104343,Sjálfstæðisflokkurinn í Reykjanesbæ,Facebook
+963c227a-ad39-4b62-912b-5b9f6182b900,Sjálfstæðisflokkurinn,2023-02-12T10:54:35.974Z,2ef2a68b-51a2-4193-8b29-035d08656e67,D,true,true,Iceland,is,269089752708,Sjálfstæðisflokkurinn,Facebook
+c8dbf9a4-23c6-41c4-9c07-4b5b9c6d1b32,Guðlaugur Þór Þórðarson,2023-06-07T06:54:08.869Z,0d9703e0-c6a3-4ab8-8cf3-5a200faecb7a,D,true,true,Iceland,is,54662962022,Guðlaugur Þór Þórðarson,Facebook
+d96f44c3-b095-44b1-aa56-e56d647588a8,Hildur Sverrisdóttir,2023-10-22T05:08:35.802Z,6ea21aed-1a31-4b23-a5ed-f65421639483,D,true,true,Iceland,is,209319395907675,Hildur Sverrisdóttir,Facebook
+f29cc71a-9c88-463f-957b-c1d7e0eff680,Diljá Mist,2023-02-14T10:54:49.167Z,d4ab1d04-161a-4d99-82db-f7a1b871a598,D,true,true,Iceland,is,105986171646268,Diljá Mist,Facebook
+07bce55d-dbe4-400c-9abb-8d95cccf2c5d,Ingibjörg Isaksen,2023-09-15T05:08:08.632Z,146f2b2d-70d0-41a1-b439-7df3abf4b6f1,B,true,true,Iceland,is,105818888034867,Ingibjörg Isaksen,Facebook
+099fbab6-3bdf-445a-a186-07eb95eba290,Sigurður Ingi Jóhannsson,2023-10-18T05:08:24.145Z,df921816-946e-43cf-b989-0a5bb3797abf,B,true,true,Iceland,is,1156964567651951,Sigurður Ingi Jóhannsson,Facebook
+235ed3f0-4e57-4b53-81a5-97538c489832,Framsókn í Mosfellsbæ,2023-02-24T10:54:55.608Z,68e1e01c-cd35-4de0-a4b1-1b423c435524,B,true,true,Iceland,is,143109705880676,Framsókn í Mosfellsbæ,Facebook
+4035a23b-b6eb-4b3d-9fb8-2ca68be0f2b7,Lilja Rannveig,2023-03-08T18:54:00.263Z,2d8cf8f0-85cc-4d66-aaa9-ac86d4df3e3e,B,true,true,Iceland,is,106044921522841,Lilja Rannveig,Facebook
+84f6820c-d265-479e-8d2b-afd60a33029d,Magnea Gná - borgarfulltrúi Framsóknar í Reykjavík,2023-06-07T06:54:08.846Z,807160fa-8012-4347-82df-2c704a8efcbc,B,true,true,Iceland,is,115004407855176,Magnea Gná - borgarfulltrúi Framsóknar í Reykjavík,Facebook
+8576c683-aee0-4750-9eef-df9c54e093ec,Framsókn,2023-02-13T10:54:53.027Z,498c882e-eead-4a6a-82df-a3a4fc53ef1b,B,true,true,Iceland,is,41021009350,Framsókn,Facebook
+49771830-d1b9-4774-a184-49e13d52336b,Vinstrihreyfingin - grænt framboð,2023-02-07T15:05:54.094Z,031143bc-461d-4ba6-a4be-15638b14d33c,V,true,true,Iceland,is,423451321043674,Vinstrihreyfingin - grænt framboð,Facebook
+5c7a1f3e-7e44-4144-8bf4-2c75b53c5c10,Ung vinstri græn - UVG,2023-05-15T06:55:07.118Z,ca7b7e36-8c30-4bca-8881-6f01de312be6,V,true,true,Iceland,is,166802253467224,Ung vinstri græn - UVG,Facebook
+815c18af-b813-4df9-9bdf-50220a5f3098,Katrín Jakobsdóttir,2023-11-21T06:54:03.321Z,b7b5ef3f-4095-4e7e-84f4-35e3f1133b60,V,true,true,Iceland,is,241503652726,Katrín Jakobsdóttir,Facebook
+dc76b00e-c432-424a-bd72-91bfacf8d169,Elva Hrönn Hjartardóttir,2023-02-24T10:54:55.608Z,a2241ce9-f3cd-4ae4-bc0b-74f7268c2d36,V,true,true,Iceland,is,103123311914005,Elva Hrönn Hjartardóttir,Facebook
+19bb0387-8849-48a3-a298-35fb17b89288,Samfylkingin í Kópavogi,2023-02-19T10:55:08.262Z,12e0c581-4447-41bb-8407-00b1a298436b,S,true,true,Iceland,is,709976082356679,Samfylkingin í Kópavogi,Facebook
+1e33418a-429a-44b4-9753-135c335e5748,Samfylkingin í Hafnarfirði,2023-02-08T05:54:33.836Z,ccbcea5f-4dea-4627-bb21-d11bf3282063,S,true,true,Iceland,is,164555479899,Samfylkingin í Hafnarfirði,Facebook
+500ce407-948e-438e-ad8e-1dc540dd18d8,Samfylkingin,2023-02-07T15:05:54.105Z,d4b45729-5ad7-4089-9d2c-88ca64b48c97,S,true,true,Iceland,is,152804904889,Samfylkingin,Facebook
+616c0cfd-d86e-443b-83ce-bb5e3964b943,Samfylkingarfélagið í Reykjavík,2023-06-24T06:48:51.260Z,71952e37-569b-49eb-9226-9e8d7e441874,S,true,true,Iceland,is,202802126448131,Samfylkingarfélagið í Reykjavík,Facebook
+cbda2785-0bb5-4620-a3f9-9355136d1f5b,Sara Björg Sigurðardóttir,2023-03-08T19:04:40.562Z,75628aed-a962-4a6a-86a8-83aeb3d329cc,S,true,true,Iceland,is,153815677989453,Sara Björg Sigurðardóttir,Facebook
+d3314019-fcf0-4f62-a152-dd3c2ad62faa,Samfylkingin á Seltjarnarnesi,2023-05-13T06:55:00.752Z,153484ce-582f-4640-920b-43841e0a4fed,S,true,true,Iceland,is,110174782355645,Samfylkingin á Seltjarnarnesi,Facebook
+675a497d-703d-498b-9267-df5f83b05a91,Flokkur fólksins,2023-02-07T15:05:54.094Z,9a2824b4-6752-4dbd-bfa1-d4b965502692,F,true,true,Iceland,is,573559522797177,Flokkur fólksins,Facebook
+48e984bd-f392-45b7-9296-0c5814e7fe5e,Píratar,2023-10-08T05:08:44.387Z,e304767a-23e1-4d45-bb1b-5bd28f909c66,P,true,true,Iceland,is,173490016118090,Píratar,Facebook
+49c73a04-0b10-48e2-ba5b-70d9629bcd8a,Þingflokkur Pírata,2023-02-07T15:05:54.105Z,998804ad-ae51-4165-b4e0-1b562339ecd8,P,true,true,Iceland,is,430089884101936,Þingflokkur Pírata,Facebook
+0dadf4ec-97eb-46df-8343-80a38d40b7b6,Sara Dögg,2023-02-14T10:54:49.168Z,4bc99318-9714-413a-b961-b9471e79f67d,V,true,true,Iceland,is,475136726354344,Sara Dögg,Facebook
+25d43236-ae04-4173-b64b-fc1ef41222ff,Viðreisn,2023-02-08T05:54:33.821Z,45dbcc3b-7c3c-4af2-9a48-285e8982c11d,V,true,true,Iceland,is,626846780726124,Viðreisn,Facebook
+8da8d17d-04d8-4599-b484-aeeb37ec2844,Þórdís Lóa,2023-02-07T15:05:54.127Z,c82310ed-d437-4c4b-be79-73c2b2f6479f,V,true,true,Iceland,is,153705438660098,Þórdís Lóa,Facebook
+a352b2b0-b149-4797-ace6-e1a7aabc0859,Þorgerður Katrín Gunnarsdóttir,2023-03-04T10:55:02.543Z,0bcfd4b2-9f2b-47f1-ba74-14940caac1eb,V,true,true,Iceland,is,1259808350720927,Þorgerður Katrín Gunnarsdóttir,Facebook
+997804eb-793d-4cbb-adce-268886e9fd83,Miðflokkurinn,2023-02-07T15:05:54.119Z,c7922531-4413-4cb5-9863-f24d319d52bc,M,true,true,Iceland,is,137524753533383,Miðflokkurinn,Facebook
+be82b992-c25d-46ac-a997-81279f4ab441,Tómas Ellert,2023-06-07T06:54:08.869Z,775b5cc8-bed9-4b7c-937a-4586c4d20c98,M,true,true,Iceland,is,383892112055079,Tómas Ellert,Facebook
