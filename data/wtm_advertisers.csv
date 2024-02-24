@@ -1,144 +1,144 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-1a6f2962-bd57-4215-acd7-2e828a868db9,Sjálfstæðisflokkurinn í Hafnarfirði,2023-02-08T05:54:33.778Z,6f43e654-466a-4e9c-9671-1d2db3b25031,D,Iceland,is,74969168478,Sjálfstæðisflokkurinn í Hafnarfirði,Facebook
 963c227a-ad39-4b62-912b-5b9f6182b900,Sjálfstæðisflokkurinn,2023-02-12T10:54:35.974Z,2ef2a68b-51a2-4193-8b29-035d08656e67,D,Iceland,is,269089752708,Sjálfstæðisflokkurinn,Facebook
-2f5ad2b0-698c-4c65-8c9b-dabb33c15d8a,Sjálfstæðisflokkurinn í Reykjavík,2023-02-20T10:54:55.205Z,d24562ea-402f-4ec6-832d-61844aff243b,D,Iceland,is,201037343748,Sjálfstæðisflokkurinn í Reykjavík,Facebook
 78240b0d-ff87-4092-8aaf-a4517fa22d68,Sjálfstæðisfélag Garðabæjar,2023-02-28T10:55:03.785Z,cb733ca2-4803-41b6-8677-b2d79102a8d9,D,Iceland,is,263095547109656,Sjálfstæðisfélag Garðabæjar,Facebook
-4151ae62-21dd-4bf6-a889-a9d0261706fc,Sjálfstæðisflokkurinn í Fjarðabyggð,2023-03-08T14:46:34.295Z,5be0b68c-1b01-4e90-ab0d-5e874643e5cb,D,Iceland,is,110388085667093,Sjálfstæðisflokkurinn í Fjarðabyggð,Facebook
 9002a7cd-2ebc-46ea-ba73-0f94c40ddcbc,Sjálfstæðisflokkurinn í Reykjanesbæ,2023-03-08T18:11:16.821Z,0d501909-3542-414a-8ecd-bad98061521d,D,Iceland,is,202456013104343,Sjálfstæðisflokkurinn í Reykjanesbæ,Facebook
-55b1976c-60fa-4526-8f45-c5ec41ed70cd,Sjálfstæðisflokkurinn í Skagafirði,2023-07-07T13:17:42.587Z,af98604b-d266-463d-9c6b-b262e8a98b92,D,Iceland,is,641862405888790,Sjálfstæðisflokkurinn í Skagafirði,Facebook
+1a6f2962-bd57-4215-acd7-2e828a868db9,Sjálfstæðisflokkurinn í Hafnarfirði,2023-02-08T05:54:33.778Z,6f43e654-466a-4e9c-9671-1d2db3b25031,D,Iceland,is,74969168478,Sjálfstæðisflokkurinn í Hafnarfirði,Facebook
 5c7a1f3e-7e44-4144-8bf4-2c75b53c5c10,Ung vinstri græn - UVG,2023-05-15T06:55:07.118Z,ca7b7e36-8c30-4bca-8881-6f01de312be6,V,Iceland,is,166802253467224,Ung vinstri græn - UVG,Facebook
-19bb0387-8849-48a3-a298-35fb17b89288,Samfylkingin í Kópavogi,2023-02-19T10:55:08.262Z,12e0c581-4447-41bb-8407-00b1a298436b,S,Iceland,is,709976082356679,Samfylkingin í Kópavogi,Facebook
 500ce407-948e-438e-ad8e-1dc540dd18d8,Samfylkingin,2023-02-07T15:05:54.105Z,d4b45729-5ad7-4089-9d2c-88ca64b48c97,S,Iceland,is,152804904889,Samfylkingin,Facebook
+2f5ad2b0-698c-4c65-8c9b-dabb33c15d8a,Sjálfstæðisflokkurinn í Reykjavík,2023-02-20T10:54:55.205Z,d24562ea-402f-4ec6-832d-61844aff243b,D,Iceland,is,201037343748,Sjálfstæðisflokkurinn í Reykjavík,Facebook
+55b1976c-60fa-4526-8f45-c5ec41ed70cd,Sjálfstæðisflokkurinn í Skagafirði,2023-07-07T13:17:42.587Z,af98604b-d266-463d-9c6b-b262e8a98b92,D,Iceland,is,641862405888790,Sjálfstæðisflokkurinn í Skagafirði,Facebook
+19bb0387-8849-48a3-a298-35fb17b89288,Samfylkingin í Kópavogi,2023-02-19T10:55:08.262Z,12e0c581-4447-41bb-8407-00b1a298436b,S,Iceland,is,709976082356679,Samfylkingin í Kópavogi,Facebook
+4151ae62-21dd-4bf6-a889-a9d0261706fc,Sjálfstæðisflokkurinn í Fjarðabyggð,2023-03-08T14:46:34.295Z,5be0b68c-1b01-4e90-ab0d-5e874643e5cb,D,Iceland,is,110388085667093,Sjálfstæðisflokkurinn í Fjarðabyggð,Facebook
 49c73a04-0b10-48e2-ba5b-70d9629bcd8a,Þingflokkur Pírata,2023-02-07T15:05:54.105Z,998804ad-ae51-4165-b4e0-1b562339ecd8,P,Iceland,is,430089884101936,Þingflokkur Pírata,Facebook
-d3314019-fcf0-4f62-a152-dd3c2ad62faa,Samfylkingin á Seltjarnarnesi,2023-05-13T06:55:00.752Z,153484ce-582f-4640-920b-43841e0a4fed,S,Iceland,is,110174782355645,Samfylkingin á Seltjarnarnesi,Facebook
-675a497d-703d-498b-9267-df5f83b05a91,Flokkur fólksins,2023-02-07T15:05:54.094Z,9a2824b4-6752-4dbd-bfa1-d4b965502692,F,Iceland,is,573559522797177,Flokkur fólksins,Facebook
 1e33418a-429a-44b4-9753-135c335e5748,Samfylkingin í Hafnarfirði,2023-02-08T05:54:33.836Z,ccbcea5f-4dea-4627-bb21-d11bf3282063,S,Iceland,is,164555479899,Samfylkingin í Hafnarfirði,Facebook
-25d43236-ae04-4173-b64b-fc1ef41222ff,Viðreisn,2023-02-08T05:54:33.821Z,45dbcc3b-7c3c-4af2-9a48-285e8982c11d,V,Iceland,is,626846780726124,Viðreisn,Facebook
+d3314019-fcf0-4f62-a152-dd3c2ad62faa,Samfylkingin á Seltjarnarnesi,2023-05-13T06:55:00.752Z,153484ce-582f-4640-920b-43841e0a4fed,S,Iceland,is,110174782355645,Samfylkingin á Seltjarnarnesi,Facebook
 48e984bd-f392-45b7-9296-0c5814e7fe5e,Píratar,2023-10-08T05:08:44.387Z,e304767a-23e1-4d45-bb1b-5bd28f909c66,P,Iceland,is,173490016118090,Píratar,Facebook
+25d43236-ae04-4173-b64b-fc1ef41222ff,Viðreisn,2023-02-08T05:54:33.821Z,45dbcc3b-7c3c-4af2-9a48-285e8982c11d,V,Iceland,is,626846780726124,Viðreisn,Facebook
+675a497d-703d-498b-9267-df5f83b05a91,Flokkur fólksins,2023-02-07T15:05:54.094Z,9a2824b4-6752-4dbd-bfa1-d4b965502692,F,Iceland,is,573559522797177,Flokkur fólksins,Facebook
 997804eb-793d-4cbb-adce-268886e9fd83,Miðflokkurinn,2023-02-07T15:05:54.119Z,c7922531-4413-4cb5-9863-f24d319d52bc,M,Iceland,is,137524753533383,Miðflokkurinn,Facebook
-a352b2b0-b149-4797-ace6-e1a7aabc0859,Þorgerður Katrín Gunnarsdóttir,2023-03-04T10:55:02.543Z,0bcfd4b2-9f2b-47f1-ba74-14940caac1eb,V,Iceland,is,1259808350720927,Þorgerður Katrín Gunnarsdóttir,Facebook
-8da8d17d-04d8-4599-b484-aeeb37ec2844,Þórdís Lóa,2023-02-07T15:05:54.127Z,c82310ed-d437-4c4b-be79-73c2b2f6479f,V,Iceland,is,153705438660098,Þórdís Lóa,Facebook
-8576c683-aee0-4750-9eef-df9c54e093ec,Framsókn,2023-02-13T10:54:53.027Z,498c882e-eead-4a6a-82df-a3a4fc53ef1b,B,Iceland,is,41021009350,Framsókn,Facebook
 49771830-d1b9-4774-a184-49e13d52336b,Vinstrihreyfingin - grænt framboð,2023-02-07T15:05:54.094Z,031143bc-461d-4ba6-a4be-15638b14d33c,V,Iceland,is,423451321043674,Vinstrihreyfingin - grænt framboð,Facebook
+a352b2b0-b149-4797-ace6-e1a7aabc0859,Þorgerður Katrín Gunnarsdóttir,2023-03-04T10:55:02.543Z,0bcfd4b2-9f2b-47f1-ba74-14940caac1eb,V,Iceland,is,1259808350720927,Þorgerður Katrín Gunnarsdóttir,Facebook
+8576c683-aee0-4750-9eef-df9c54e093ec,Framsókn,2023-02-13T10:54:53.027Z,498c882e-eead-4a6a-82df-a3a4fc53ef1b,B,Iceland,is,41021009350,Framsókn,Facebook
+8da8d17d-04d8-4599-b484-aeeb37ec2844,Þórdís Lóa,2023-02-07T15:05:54.127Z,c82310ed-d437-4c4b-be79-73c2b2f6479f,V,Iceland,is,153705438660098,Þórdís Lóa,Facebook
 dc76b00e-c432-424a-bd72-91bfacf8d169,Elva Hrönn Hjartardóttir,2023-02-24T10:54:55.608Z,a2241ce9-f3cd-4ae4-bc0b-74f7268c2d36,V,Iceland,is,103123311914005,Elva Hrönn Hjartardóttir,Facebook
-f29cc71a-9c88-463f-957b-c1d7e0eff680,Diljá Mist,2023-02-14T10:54:49.167Z,d4ab1d04-161a-4d99-82db-f7a1b871a598,D,Iceland,is,105986171646268,Diljá Mist,Facebook
-c8dbf9a4-23c6-41c4-9c07-4b5b9c6d1b32,Guðlaugur Þór Þórðarson,2023-06-07T06:54:08.869Z,0d9703e0-c6a3-4ab8-8cf3-5a200faecb7a,D,Iceland,is,54662962022,Guðlaugur Þór Þórðarson,Facebook
 235ed3f0-4e57-4b53-81a5-97538c489832,Framsókn í Mosfellsbæ,2023-02-24T10:54:55.608Z,68e1e01c-cd35-4de0-a4b1-1b423c435524,B,Iceland,is,143109705880676,Framsókn í Mosfellsbæ,Facebook
+f29cc71a-9c88-463f-957b-c1d7e0eff680,Diljá Mist,2023-02-14T10:54:49.167Z,d4ab1d04-161a-4d99-82db-f7a1b871a598,D,Iceland,is,105986171646268,Diljá Mist,Facebook
 07bce55d-dbe4-400c-9abb-8d95cccf2c5d,Ingibjörg Isaksen,2023-09-15T05:08:08.632Z,146f2b2d-70d0-41a1-b439-7df3abf4b6f1,B,Iceland,is,105818888034867,Ingibjörg Isaksen,Facebook
-d96f44c3-b095-44b1-aa56-e56d647588a8,Hildur Sverrisdóttir,2023-10-22T05:08:35.802Z,6ea21aed-1a31-4b23-a5ed-f65421639483,D,Iceland,is,209319395907675,Hildur Sverrisdóttir,Facebook
-815c18af-b813-4df9-9bdf-50220a5f3098,Katrín Jakobsdóttir,2023-11-21T06:54:03.321Z,b7b5ef3f-4095-4e7e-84f4-35e3f1133b60,V,Iceland,is,241503652726,Katrín Jakobsdóttir,Facebook
 2b7723f1-ebf8-4b62-bcf5-e263e603fa65,Ragnhildur Alda M. Vilhjálmsdóttir,2023-03-08T14:46:34.295Z,119ae1c8-2688-47d6-801a-eb9d80bb9b72,D,Iceland,is,106430331983242,Ragnhildur Alda M. Vilhjálmsdóttir,Facebook
+c8dbf9a4-23c6-41c4-9c07-4b5b9c6d1b32,Guðlaugur Þór Þórðarson,2023-06-07T06:54:08.869Z,0d9703e0-c6a3-4ab8-8cf3-5a200faecb7a,D,Iceland,is,54662962022,Guðlaugur Þór Þórðarson,Facebook
+815c18af-b813-4df9-9bdf-50220a5f3098,Katrín Jakobsdóttir,2023-11-21T06:54:03.321Z,b7b5ef3f-4095-4e7e-84f4-35e3f1133b60,V,Iceland,is,241503652726,Katrín Jakobsdóttir,Facebook
+d96f44c3-b095-44b1-aa56-e56d647588a8,Hildur Sverrisdóttir,2023-10-22T05:08:35.802Z,6ea21aed-1a31-4b23-a5ed-f65421639483,D,Iceland,is,209319395907675,Hildur Sverrisdóttir,Facebook
 4035a23b-b6eb-4b3d-9fb8-2ca68be0f2b7,Lilja Rannveig,2023-03-08T18:54:00.263Z,2d8cf8f0-85cc-4d66-aaa9-ac86d4df3e3e,B,Iceland,is,106044921522841,Lilja Rannveig,Facebook
-84f6820c-d265-479e-8d2b-afd60a33029d,Magnea Gná - borgarfulltrúi Framsóknar í Reykjavík,2023-06-07T06:54:08.846Z,807160fa-8012-4347-82df-2c704a8efcbc,B,Iceland,is,115004407855176,Magnea Gná - borgarfulltrúi Framsóknar í Reykjavík,Facebook
 be82b992-c25d-46ac-a997-81279f4ab441,Tómas Ellert,2023-06-07T06:54:08.869Z,775b5cc8-bed9-4b7c-937a-4586c4d20c98,M,Iceland,is,383892112055079,Tómas Ellert,Facebook
-0dadf4ec-97eb-46df-8343-80a38d40b7b6,Sara Dögg,2023-02-14T10:54:49.168Z,4bc99318-9714-413a-b961-b9471e79f67d,V,Iceland,is,475136726354344,Sara Dögg,Facebook
 616c0cfd-d86e-443b-83ce-bb5e3964b943,Samfylkingarfélagið í Reykjavík,2023-06-24T06:48:51.260Z,71952e37-569b-49eb-9226-9e8d7e441874,S,Iceland,is,202802126448131,Samfylkingarfélagið í Reykjavík,Facebook
+84f6820c-d265-479e-8d2b-afd60a33029d,Magnea Gná - borgarfulltrúi Framsóknar í Reykjavík,2023-06-07T06:54:08.846Z,807160fa-8012-4347-82df-2c704a8efcbc,B,Iceland,is,115004407855176,Magnea Gná - borgarfulltrúi Framsóknar í Reykjavík,Facebook
+0dadf4ec-97eb-46df-8343-80a38d40b7b6,Sara Dögg,2023-02-14T10:54:49.168Z,4bc99318-9714-413a-b961-b9471e79f67d,V,Iceland,is,475136726354344,Sara Dögg,Facebook
 cbda2785-0bb5-4620-a3f9-9355136d1f5b,Sara Björg Sigurðardóttir,2023-03-08T19:04:40.562Z,75628aed-a962-4a6a-86a8-83aeb3d329cc,S,Iceland,is,153815677989453,Sara Björg Sigurðardóttir,Facebook
 13b906e7-6c13-4319-bbfc-4357dfa98b73,Sjálfstæðisfélag Seltirninga,2023-03-07T10:54:52.619Z,91d8fba0-29ac-4571-a3fa-a58e01540251,D,Iceland,is,396010277151129,Sjálfstæðisfélag Seltirninga,Facebook
 099fbab6-3bdf-445a-a186-07eb95eba290,Sigurður Ingi Jóhannsson,2023-10-18T05:08:24.145Z,df921816-946e-43cf-b989-0a5bb3797abf,B,Iceland,is,1156964567651951,Sigurður Ingi Jóhannsson,Facebook
-986b4cdc-edbb-41fa-85ad-30c642925f0d,Berglind Harpa Svavarsdóttir,2023-10-27T05:08:26.918Z,523c29db-01da-46b8-9fc9-4e879d062466,D,Iceland,is,102094592028568,Berglind Harpa Svavarsdóttir,Facebook
 0d7bf377-2101-44be-83bc-9db0fbb2d926,Vörður Fulltrúaráð Sjálfstæðisfélaganna í Reykjavík,2023-06-19T18:26:17.097Z,8c523328-0d99-42eb-9921-8b67a69e973a,D,Iceland,is,252936991503290,Vörður Fulltrúaráð Sjálfstæðisfélaganna í Reykjavík,Facebook
-aa32d13f-2559-4abf-97b2-f2678e5712ce,Þórdís Kolbrún Reykfjörð Gylfadóttir,2023-04-16T15:07:10.355Z,04d31320-b8aa-4582-b82a-2222d55c6614,D,Iceland,is,323996294599843,Þórdís Kolbrún Reykfjörð Gylfadóttir,Facebook
 26e8bef7-fac1-47d0-a5ea-4fae3d21d3e2,Lilja Dögg Alfreðsdóttir,2023-04-07T10:55:00.665Z,3de63495-9189-4f03-801b-bc46b49a5174,B,Iceland,is,1016761808389143,Lilja Dögg Alfreðsdóttir,Facebook
+aa32d13f-2559-4abf-97b2-f2678e5712ce,Þórdís Kolbrún Reykfjörð Gylfadóttir,2023-04-16T15:07:10.355Z,04d31320-b8aa-4582-b82a-2222d55c6614,D,Iceland,is,323996294599843,Þórdís Kolbrún Reykfjörð Gylfadóttir,Facebook
+986b4cdc-edbb-41fa-85ad-30c642925f0d,Berglind Harpa Svavarsdóttir,2023-10-27T05:08:26.918Z,523c29db-01da-46b8-9fc9-4e879d062466,D,Iceland,is,102094592028568,Berglind Harpa Svavarsdóttir,Facebook
 0c4bec47-54fe-49ad-bc79-f3f0e3a0f931,Garðabæjarlistinn,2023-02-07T15:05:54.110Z,220d8b99-b1e4-4170-9e1f-ee1231644b9e,Aðrir,Iceland,is,184042545536602,Garðabæjarlistinn,Facebook
-77f933f9-e76c-401c-95e2-579a3ebe5963,Halla Signý Kristjánsdóttir,2023-02-13T10:54:53.048Z,5308419e-5367-42d5-be6d-2cbf73587a29,B,Iceland,is,1032185400296136,Halla Signý Kristjánsdóttir,Facebook
-fa89b060-95f1-4f38-adf0-076be85abc17,Ágúst Bjarni Garðarsson / alþingismaður,2023-04-28T06:54:41.768Z,86fe6523-e848-4461-a06e-9148497902c2,B,Iceland,is,824286591279546,Ágúst Bjarni Garðarsson / alþingismaður,Facebook
-f794f760-2cff-48e6-8795-2cce77ac60a8,Hallveig - Ungt Jafnaðarfólk í Reykjavík,2023-03-06T10:54:55.575Z,85d40c46-37c5-4f74-ade4-0124ee20d26c,Aðrir,Iceland,is,186136308067937,Hallveig - Ungt Jafnaðarfólk í Reykjavík,Facebook
 7b23e46e-9cdb-4505-ae59-4ecdbfb022b4,Fjarðalistinn,2023-04-20T06:54:47.768Z,7709578c-8068-4451-abcb-b2b57ae13e6c,Aðrir,Iceland,is,164535469970,Fjarðalistinn,Facebook
+77f933f9-e76c-401c-95e2-579a3ebe5963,Halla Signý Kristjánsdóttir,2023-02-13T10:54:53.048Z,5308419e-5367-42d5-be6d-2cbf73587a29,B,Iceland,is,1032185400296136,Halla Signý Kristjánsdóttir,Facebook
+f794f760-2cff-48e6-8795-2cce77ac60a8,Hallveig - Ungt Jafnaðarfólk í Reykjavík,2023-03-06T10:54:55.575Z,85d40c46-37c5-4f74-ade4-0124ee20d26c,Aðrir,Iceland,is,186136308067937,Hallveig - Ungt Jafnaðarfólk í Reykjavík,Facebook
+fa89b060-95f1-4f38-adf0-076be85abc17,Ágúst Bjarni Garðarsson / alþingismaður,2023-04-28T06:54:41.768Z,86fe6523-e848-4461-a06e-9148497902c2,B,Iceland,is,824286591279546,Ágúst Bjarni Garðarsson / alþingismaður,Facebook
 c7cac615-df21-43bc-84dd-ece5306928c6,Jóhann Páll Jóhannsson,2023-02-13T10:54:53.036Z,1b387014-1bd9-4897-a5a1-5adabfd60268,S,Iceland,is,108295544832396,Jóhann Páll Jóhannsson,Facebook
-0669fb4d-0129-4c68-b5d9-87e45c85e139,Heiða Björg Hilmisdóttir,2023-02-20T10:54:55.215Z,6ae9ae0d-c2c6-424b-8ce8-c132981cfd4c,S,Iceland,is,1438606279746434,Heiða Björg Hilmisdóttir,Facebook
 f361e580-8168-411b-b151-8a196ec6b4a2,Sabine Leskopf,2023-02-11T10:54:30.330Z,f43db3e2-2ec2-4236-bd83-ab4719e71acf,S,Iceland,is,509866436098947,Sabine Leskopf,Facebook
-77fecade-de00-4709-a695-33eab93436c6,Alexandra Briem,2023-03-08T15:06:23.317Z,8d505c34-cfb0-4cce-9190-6e3fde631897,P,Iceland,is,891307104382857,Alexandra Briem,Facebook
 1913019d-35e9-4783-ab23-6c2044005e49,Heimdallur,2023-08-26T05:08:01.954Z,68b3ed9a-d176-4736-8e73-749aa90b9a40,Aðrir,Iceland,is,159369344093872,Heimdallur,Facebook
-397b0b1e-a244-4812-9484-0ae537f87477,Áslaug Arna Sigurbjörnsdóttir,2023-02-07T15:05:54.118Z,cd083096-6c90-4be8-bbab-f9d411d02d7a,B,Iceland,is,584934658344027,Áslaug Arna Sigurbjörnsdóttir,Facebook
+0669fb4d-0129-4c68-b5d9-87e45c85e139,Heiða Björg Hilmisdóttir,2023-02-20T10:54:55.215Z,6ae9ae0d-c2c6-424b-8ce8-c132981cfd4c,S,Iceland,is,1438606279746434,Heiða Björg Hilmisdóttir,Facebook
 9e319028-2e62-4137-b955-e834fa0cb535,Samfés,2023-12-01T06:00:31.530Z,0095b627-fc60-4d28-ba8c-862fa86234b5,ZZZ,Iceland,is,212049605580621,Samfés,Facebook
+77fecade-de00-4709-a695-33eab93436c6,Alexandra Briem,2023-03-08T15:06:23.317Z,8d505c34-cfb0-4cce-9190-6e3fde631897,P,Iceland,is,891307104382857,Alexandra Briem,Facebook
+397b0b1e-a244-4812-9484-0ae537f87477,Áslaug Arna Sigurbjörnsdóttir,2023-02-07T15:05:54.118Z,cd083096-6c90-4be8-bbab-f9d411d02d7a,B,Iceland,is,584934658344027,Áslaug Arna Sigurbjörnsdóttir,Facebook
 ea5ab666-ccf0-4bb9-9c3b-a0585bc5ca32,Mazda á Íslandi - Brimborg,2023-08-07T05:09:09.255Z,a4673ebd-acf3-4bf8-802c-d38b7c5ad4d9,ZZZ,Iceland,is,421599157910800,Mazda á Íslandi - Brimborg,Facebook
 ce4b3b59-a89c-4da3-b45e-3cc1625d81f3,Bíótekið,2023-11-21T06:54:03.319Z,d9bc24e3-70ee-4759-98dd-1f234fbd0682,ZZZ,Iceland,is,103138642237019,Bíótekið,Facebook
 7e1f1f6b-1073-4a74-9211-ba19d6d72615,Ísland.is,2023-07-10T06:52:35.474Z,155c94df-8ea7-4f92-8228-720156d0a5f3,ZZZ,Iceland,is,253019487550,Ísland.is,Facebook
 c2362664-376b-4d62-ab8f-d8c4d570f1f9,Skessuhorn,2023-03-08T20:19:22.196Z,dd1eaa0a-5299-4d73-ac41-891293d5d2ce,ZZZ,Iceland,is,178062028902174,Skessuhorn,Facebook
-0601c11d-0ddc-4baa-a321-58f5db73140d,Equal Iceland,2023-09-02T05:08:03.859Z,1ab8b1ae-d6a7-480f-96b3-b0ffea84d5fe,ZZZ,Iceland,is,107918312391653,Equal Iceland,Facebook
 0c7382a7-105f-4ff1-b924-71a192d41af2,Ekill.is,2023-03-11T10:55:11.641Z,cc495ef8-e8f8-4957-9fff-cb509edbbccd,ZZZ,Iceland,is,1587835178108517,Ekill.is,Facebook
-ddf6511e-5898-4732-9be7-d2c8d9246e9c,Lifandi vísindi- Lifandi saga,2023-02-07T15:05:54.129Z,cfbf80ec-32b8-4b50-8c13-f49474edc0f9,ZZZ,Iceland,is,117923164930140,Lifandi vísindi- Lifandi saga,Facebook
-c0fceb83-e443-4449-8d7c-2cb4c7f27270,VR,2023-02-07T15:05:54.077Z,7cb872bf-cc08-43b3-8788-6a7d48035fb3,ZZZ,Iceland,is,314036327204,VR,Facebook
+0601c11d-0ddc-4baa-a321-58f5db73140d,Equal Iceland,2023-09-02T05:08:03.859Z,1ab8b1ae-d6a7-480f-96b3-b0ffea84d5fe,ZZZ,Iceland,is,107918312391653,Equal Iceland,Facebook
 0fe84d36-2d1d-4696-85e0-cd01b6f36b38,Samorka,2023-03-11T10:55:11.694Z,15a84c96-6129-4738-95d8-52dc7b6db72f,ZZZ,Iceland,is,622220361283956,Samorka,Facebook
-11f07e91-40b3-496e-af33-c936b59b64f6,Félag atvinnurekenda,2023-02-07T15:05:54.110Z,5480b954-68b8-4bce-8b43-0f1dbf282050,ZZZ,Iceland,is,332179950192248,Félag atvinnurekenda,Facebook
-fb07c2e6-c2c7-430c-a9fb-72140c39d3e1,ADHD samtökin,2023-02-08T06:22:19.445Z,84ca61e9-e3db-4479-b313-3717d9582381,ZZZ,Iceland,is,154893001218870,ADHD samtökin,Facebook
 d4001774-7a45-4fef-bebb-a5a902dd1490,Útvarp Saga,2023-11-14T12:27:55.427Z,0e86f149-29d6-4305-8e5a-1b9aad7ca530,ZZZ,Iceland,is,240802852621546,Útvarp Saga,Facebook
-1c31ca85-482a-4f3d-b7aa-66d81cf2aca1,Stundin,2023-02-08T05:54:33.810Z,19539009-bc7b-4837-9889-45a393410f3f,ZZZ,Iceland,is,737169626371453,Stundin,Facebook
+ddf6511e-5898-4732-9be7-d2c8d9246e9c,Lifandi vísindi- Lifandi saga,2023-02-07T15:05:54.129Z,cfbf80ec-32b8-4b50-8c13-f49474edc0f9,ZZZ,Iceland,is,117923164930140,Lifandi vísindi- Lifandi saga,Facebook
 9d715f0b-43d7-4193-b968-d914afd9e95f,Röskva - stúdentahreyfing,2023-03-15T10:55:19.169Z,a25524e7-d336-42bf-8e7c-5cdcd0139154,ZZZ,Iceland,is,41445084925,Röskva - stúdentahreyfing,Facebook
+c0fceb83-e443-4449-8d7c-2cb4c7f27270,VR,2023-02-07T15:05:54.077Z,7cb872bf-cc08-43b3-8788-6a7d48035fb3,ZZZ,Iceland,is,314036327204,VR,Facebook
+01137d90-b632-42a4-af29-209fd06b7fb5,LÍS - Landssamtök íslenskra stúdenta,2023-03-18T10:54:57.050Z,67fc7378-84f5-409d-b698-1911e0e2abca,ZZZ,Iceland,is,607573825973006,LÍS - Landssamtök íslenskra stúdenta,Facebook
+073b18ce-cce6-4b6d-b5c2-926455b7ac5d,Samtök fyrirtækja í sjávarútvegi,2023-03-22T10:54:47.337Z,6a1335b3-caf5-4b58-aa09-d94e9eb6aafa,ZZZ,Iceland,is,1518790851708164,Samtök fyrirtækja í sjávarútvegi,Facebook
+11f07e91-40b3-496e-af33-c936b59b64f6,Félag atvinnurekenda,2023-02-07T15:05:54.110Z,5480b954-68b8-4bce-8b43-0f1dbf282050,ZZZ,Iceland,is,332179950192248,Félag atvinnurekenda,Facebook
+95b3603e-cf7d-4024-a9f7-a1a41a54e814,Vitafélagið - Íslensk Strandmenning,2023-10-31T05:45:26.990Z,41194eb2-70fc-4f61-a7d0-4a5a578a4b03,ZZZ,Iceland,is,944105312326150,Vitafélagið - Íslensk Strandmenning,Facebook
+fb07c2e6-c2c7-430c-a9fb-72140c39d3e1,ADHD samtökin,2023-02-08T06:22:19.445Z,84ca61e9-e3db-4479-b313-3717d9582381,ZZZ,Iceland,is,154893001218870,ADHD samtökin,Facebook
+1c31ca85-482a-4f3d-b7aa-66d81cf2aca1,Stundin,2023-02-08T05:54:33.810Z,19539009-bc7b-4837-9889-45a393410f3f,ZZZ,Iceland,is,737169626371453,Stundin,Facebook
 825d64ff-7633-4c34-b7e8-f41060517170,Icelandic Art Center,2023-02-08T05:54:33.898Z,f8c34df6-1837-4a9b-b362-dd076305df65,ZZZ,Iceland,is,159655987425431,Icelandic Art Center,Facebook
 6e6570ad-1402-4642-b51b-c64cd0346851,Verkalýðsfélagið Hlíf,2023-02-13T10:54:53.048Z,d33ca928-4d69-44c8-8c79-3ee3519e4dda,ZZZ,Iceland,is,2375329499365063,Verkalýðsfélagið Hlíf,Facebook
-01137d90-b632-42a4-af29-209fd06b7fb5,LÍS - Landssamtök íslenskra stúdenta,2023-03-18T10:54:57.050Z,67fc7378-84f5-409d-b698-1911e0e2abca,ZZZ,Iceland,is,607573825973006,LÍS - Landssamtök íslenskra stúdenta,Facebook
-067f3776-71ce-4117-a919-708878b94d46,Kjarninn,2023-02-14T10:54:49.068Z,c349827f-f028-473f-ba06-3fe841b68390,ZZZ,Iceland,is,156161194561570,Kjarninn,Facebook
-616cdf1b-24ce-4f86-aefc-074b617620f0,Samtök hernaðarandstæðinga,2023-02-16T10:54:54.355Z,c9eec38c-a32b-48f8-8011-8c0635edc1c5,ZZZ,Iceland,is,1532699550291414,Samtök hernaðarandstæðinga,Facebook
-63f20503-3e4f-4181-a2f5-c2343ccb149a,Við fólkið í landinu,2023-07-17T06:33:18.626Z,32136c08-4293-48f9-9549-755bc660caf0,ZZZ,Iceland,is,106447694832744,Við fólkið í landinu,Facebook
-11d86c87-6c49-47bc-87b2-c7b70f3e0d0f,Borgarbyggð,2023-02-19T10:55:08.252Z,3f147261-025b-49fb-801b-41a487a953d2,ZZZ,Iceland,is,1434262256802295,Borgarbyggð,Facebook
-073b18ce-cce6-4b6d-b5c2-926455b7ac5d,Samtök fyrirtækja í sjávarútvegi,2023-03-22T10:54:47.337Z,6a1335b3-caf5-4b58-aa09-d94e9eb6aafa,ZZZ,Iceland,is,1518790851708164,Samtök fyrirtækja í sjávarútvegi,Facebook
-fb3fecc2-de55-49f1-b133-a7465e5c57ae,Sahara,2023-07-03T06:17:12.915Z,8a83e11b-09ec-4f31-b6d4-f2b96f563460,ZZZ,Iceland,is,153308938439589,Sahara,Facebook
-420b3266-87b2-4d38-99e0-1f8fa255ed96,Kammersveit Reykjavíkur,2023-09-06T05:08:04.012Z,09d8e4b3-3b10-47cd-a4b8-6248a28d18df,ZZZ,Iceland,is,162646443830601,Kammersveit Reykjavíkur,Facebook
-95b3603e-cf7d-4024-a9f7-a1a41a54e814,Vitafélagið - Íslensk Strandmenning,2023-10-31T05:45:26.990Z,41194eb2-70fc-4f61-a7d0-4a5a578a4b03,ZZZ,Iceland,is,944105312326150,Vitafélagið - Íslensk Strandmenning,Facebook
-e1c82b1a-3bb2-44f5-96fe-c97e78e57092,Barnaheill - Save the Children á Íslandi,2023-09-08T05:08:29.511Z,105f164a-a232-4a91-961f-d5cf3f89d022,ZZZ,Iceland,is,412172448860790,Barnaheill - Save the Children á Íslandi,Facebook
-4d985eb6-467e-45d3-9c0e-c2cefd1f1cdb,Verkfræðingafélag Íslands,2023-09-22T05:08:19.862Z,1bf7a2e7-bce9-49d6-8755-a19b9e89598d,ZZZ,Iceland,is,168442736580986,Verkfræðingafélag Íslands,Facebook
 39fb6f79-f4c8-4d08-a22b-d617948ee143,Almenni lífeyrissjóðurinn,2023-03-26T10:54:47.760Z,f22eef0d-87ee-4ece-b5e1-300653ff0a64,ZZZ,Iceland,is,1750822051817991,Almenni lífeyrissjóðurinn,Facebook
-ae79dd06-4f89-4c49-8591-14ab08f680ca,Bláa Hagkerfið,2023-07-25T05:08:58.548Z,7ba79a04-84ee-4334-ae04-925316a8bcbc,ZZZ,Iceland,is,101014521507576,Bláa Hagkerfið,Facebook
+067f3776-71ce-4117-a919-708878b94d46,Kjarninn,2023-02-14T10:54:49.068Z,c349827f-f028-473f-ba06-3fe841b68390,ZZZ,Iceland,is,156161194561570,Kjarninn,Facebook
 6a677584-531a-4d1d-88d0-d20e7cd57519,RÓT,2023-03-26T10:54:47.760Z,8bcd77b3-11f6-4504-b2ca-8529504d71cf,ZZZ,Iceland,is,106552092270637,RÓT,Facebook
-2feebfe8-ed6e-4c66-abb5-57dd3692fbfd,Landssamband sjálfstæðiskvenna,2023-02-21T10:54:49.082Z,815b8f1a-7335-481c-98e6-c6ea1c7ed98c,ZZZ,Iceland,is,497751670242493,Landssamband sjálfstæðiskvenna,Facebook
 9f1bb5fc-2c6b-47fa-9dde-2d80dbf23cb4,Reykjavíkurborg,2023-04-08T10:55:03.662Z,23875fe3-fa63-4534-aa48-88e06512fefc,ZZZ,Iceland,is,405625165041,Reykjavíkurborg,Facebook
-890350af-355a-477d-8dcc-86cf3c6d3d56,Evrópuhreyfingin,2023-02-23T10:54:51.018Z,6656fd7b-b427-4606-8557-3426de88e7db,ZZZ,Iceland,is,102133046017049,Evrópuhreyfingin,Facebook
+616cdf1b-24ce-4f86-aefc-074b617620f0,Samtök hernaðarandstæðinga,2023-02-16T10:54:54.355Z,c9eec38c-a32b-48f8-8011-8c0635edc1c5,ZZZ,Iceland,is,1532699550291414,Samtök hernaðarandstæðinga,Facebook
 728a3fec-4b49-4d80-95d1-a6e5a9fe0938,Samstöðin: Fréttir,2023-04-09T10:54:57.319Z,8a30d2b8-7ab4-464c-8c65-5ef20b9533cc,ZZZ,Iceland,is,114057194960942,Samstöðin: Fréttir,Facebook
-33f27d8d-8e2b-4a27-bbb2-32e2529012bc,Borgarleikhúsið,2023-02-24T10:54:55.597Z,cf28b8ca-7177-4cd0-ae00-f29967d544ba,ZZZ,Iceland,is,116586928363474,Borgarleikhúsið,Facebook
 28918393-2e3d-437d-a8bd-95005716d300,Skapskap,2023-04-21T06:55:08.059Z,1070c973-83ff-460a-a69d-277d9bfef77f,ZZZ,Iceland,is,109986694524045,Skapskap,Facebook
-420bf5df-456c-410b-a88e-e89748042931,Bíó Paradís,2023-09-16T05:08:19.695Z,6e7e6621-667a-4021-b83e-156cfafcba33,ZZZ,Iceland,is,142961965740393,Bíó Paradís,Facebook
+63f20503-3e4f-4181-a2f5-c2343ccb149a,Við fólkið í landinu,2023-07-17T06:33:18.626Z,32136c08-4293-48f9-9549-755bc660caf0,ZZZ,Iceland,is,106447694832744,Við fólkið í landinu,Facebook
 f0026067-e0e4-4b6d-8328-d33d2eb9b959,Solid Clouds,2023-05-01T06:54:40.153Z,dac056e3-74a0-4e5e-83ee-ebdce0a558fd,ZZZ,Iceland,is,1397224697253477,Solid Clouds,Facebook
-d2986339-de12-4fba-b65e-f66180c1c93d,Smáragarður ehf.,2023-08-29T05:07:57.946Z,285b7611-a03d-46eb-857e-9beb1b6e6449,ZZZ,Iceland,is,1865046390429445,Smáragarður ehf.,Facebook
+11d86c87-6c49-47bc-87b2-c7b70f3e0d0f,Borgarbyggð,2023-02-19T10:55:08.252Z,3f147261-025b-49fb-801b-41a487a953d2,ZZZ,Iceland,is,1434262256802295,Borgarbyggð,Facebook
 ac3ea10e-eb02-4f15-9981-1ca38fd8a909,Metabolic Reykjavík,2023-05-03T06:54:14.494Z,1d877643-8a7d-48ff-9900-2e4d3b125740,ZZZ,Iceland,is,315412792622619,Metabolic Reykjavík,Facebook
-3e87c5ee-ad3a-4fd9-a20e-c13ce72705a7,Loftslagsráð - Icelandic Climate Council,2023-08-29T05:07:57.960Z,3312078d-1926-4381-8ac9-850d7585a08e,ZZZ,Iceland,is,102948841613696,Loftslagsráð - Icelandic Climate Council,Facebook
 f17382f4-41bb-4bdc-b8a7-a6d357509bf9,Já Ísland,2023-05-10T06:55:11.709Z,28c0015a-fcab-4993-bb96-f6bede69eea6,ZZZ,Iceland,is,127758293960074,Já Ísland,Facebook
-f141435b-836b-4df3-a118-3cf19bb650c7,Andríki,2023-03-03T10:54:54.140Z,ea27ca6c-1f29-4f12-aad9-560ec0c8e336,ZZZ,Iceland,is,165630723862615,Andríki,Facebook
-ad5f450b-9087-457d-affb-a65486df474b,Bjórland,2023-08-01T05:08:58.554Z,785f3260-43fc-46c0-bebd-07d6f0ee45f5,ZZZ,Iceland,is,100122588079580,Bjórland,Facebook
+fb3fecc2-de55-49f1-b133-a7465e5c57ae,Sahara,2023-07-03T06:17:12.915Z,8a83e11b-09ec-4f31-b6d4-f2b96f563460,ZZZ,Iceland,is,153308938439589,Sahara,Facebook
 3bfc8199-4612-4f21-8904-6e3ed0b97b12,Barátta XX-Kvenna fyrir öryggi.,2023-10-20T05:08:29.770Z,999a77bb-2dec-45fc-8544-f0f74ffdba73,ZZZ,Iceland,is,115502208177917,Barátta XX-Kvenna fyrir öryggi.,Facebook
-959f54d7-08fb-40c0-8e24-d7ea8f1d43b2,Orkustofnun,2023-03-08T10:55:07.296Z,9ca0ca74-45ed-4a30-b1c8-476e84f707a9,ZZZ,Iceland,is,196907954119033,Orkustofnun,Facebook
 d8c9f02c-0406-4236-9840-b73bc44b8c97,Neyðarlínan 112,2023-12-05T05:08:12.106Z,343e355a-da5c-43be-9548-9adba2a460bf,ZZZ,Iceland,is,595877127132324,Neyðarlínan 112,Facebook
-01b136b1-0c11-46b4-ba7a-07a61e709c18,Viðskiptaráð Íslands,2023-03-08T14:46:34.285Z,b84e8566-504e-43a2-a960-52ea23ddccd7,ZZZ,Iceland,is,148872571795434,Viðskiptaráð Íslands,Facebook
+420b3266-87b2-4d38-99e0-1f8fa255ed96,Kammersveit Reykjavíkur,2023-09-06T05:08:04.012Z,09d8e4b3-3b10-47cd-a4b8-6248a28d18df,ZZZ,Iceland,is,162646443830601,Kammersveit Reykjavíkur,Facebook
 f03c9e15-04d4-4a1c-aa55-deb5d2e7ae13,Miðbær Selfoss,2023-05-26T06:55:03.036Z,d36f00d4-8a40-4dd9-ad79-4af3d9b72591,ZZZ,Iceland,is,1558396254272539,Miðbær Selfoss,Facebook
-aaebd322-bffc-4acc-bad7-4956394cdcf0,Ríkislögreglustjóri,2023-03-08T14:46:34.285Z,d9b271d3-ca64-4f52-8e5e-f65895263fbc,ZZZ,Iceland,is,1011307815614890,Ríkislögreglustjóri,Facebook
+e1c82b1a-3bb2-44f5-96fe-c97e78e57092,Barnaheill - Save the Children á Íslandi,2023-09-08T05:08:29.511Z,105f164a-a232-4a91-961f-d5cf3f89d022,ZZZ,Iceland,is,412172448860790,Barnaheill - Save the Children á Íslandi,Facebook
 941ea6a0-82da-44bd-a481-4360d815155e,Háskólinn í Reykjavík,2023-11-19T05:08:08.692Z,0d86e7cd-02b0-4fb0-ab81-cc6572c176ec,ZZZ,Iceland,is,179747155671,Háskólinn í Reykjavík,Facebook
-f92f4adf-5ed3-4a09-a1ec-b0e11b7185fa,Stöð 2,2023-03-08T14:46:34.285Z,05a511b0-60ba-4ba9-ad82-43f25b97b143,ZZZ,Iceland,is,92267063303,Stöð 2,Facebook
 b9e0859d-fb2e-46c9-b50a-e76aa6f2c04e,Blái trefillinn,2023-11-09T05:59:09.946Z,543bc392-ce5d-44dc-aba8-f7d5db020769,ZZZ,Iceland,is,104531448133165,Blái trefillinn,Facebook
-e135d1fd-d1a2-4e90-8c4e-0cfc86818e75,Stjórnarskrárfélagið -The Icelandic Constitution Society,2023-03-08T15:06:23.304Z,27d12bc2-36ee-44a2-abde-025f003c47a6,ZZZ,Iceland,is,157073914303469,Stjórnarskrárfélagið -The Icelandic Constitution Society,Facebook
-f3f1f739-faed-4243-8e9d-f1d3f6c94530,Norræna félagið / Foreningen Norden Island,2023-11-11T05:08:08.421Z,0234abf5-8721-4c6b-832e-bb17049d2759,ZZZ,Iceland,is,1410738999227336,Norræna félagið / Foreningen Norden Island,Facebook
+4d985eb6-467e-45d3-9c0e-c2cefd1f1cdb,Verkfræðingafélag Íslands,2023-09-22T05:08:19.862Z,1bf7a2e7-bce9-49d6-8755-a19b9e89598d,ZZZ,Iceland,is,168442736580986,Verkfræðingafélag Íslands,Facebook
 bf437748-fb2f-4cdb-9f55-b171742d2bc9,Ugla útgáfa,2023-06-15T06:54:29.482Z,626041b8-5f2c-4f3d-b5a7-d6804937396b,ZZZ,Iceland,is,900088800059077,Ugla útgáfa,Facebook
-1763e678-ac9d-4bf0-a509-4b2e300b7272,Jibbybyggir - Gæðakerfi fyrir Meistara og Hönnuði,2023-09-25T05:08:25.814Z,4e2602ec-cf18-42aa-a525-44434ffea009,ZZZ,Iceland,is,874865195857600,Jibbybyggir - Gæðakerfi fyrir Meistara og Hönnuði,Facebook
-474416b0-d373-4386-8025-d167722e7ec0,Eduardo Rossell,2023-11-13T05:09:11.535Z,19135dec-73b4-4b36-bb5d-eb80c167d21f,ZZZ,Iceland,is,8840513129,Eduardo Rossell,Facebook
 d78983f3-38ed-4da3-b7c8-1bf81fd4b317,"Intellecta - Ráðgjöf, ráðningar, rannsóknir",2023-06-16T09:34:36.422Z,76b8e39d-d531-498f-add4-b631b3da601c,ZZZ,Iceland,is,444392138940597,"Intellecta - Ráðgjöf, ráðningar, rannsóknir",Facebook
+ae79dd06-4f89-4c49-8591-14ab08f680ca,Bláa Hagkerfið,2023-07-25T05:08:58.548Z,7ba79a04-84ee-4334-ae04-925316a8bcbc,ZZZ,Iceland,is,101014521507576,Bláa Hagkerfið,Facebook
 ad7780f3-68d4-4c74-bf3f-11d44b8c0f80,Loftkastalinn / Vinnustofa Hilmars,2023-11-10T05:08:15.762Z,4192630f-df36-42ff-8907-0309ed2f68f9,ZZZ,Iceland,is,628688953820696,Loftkastalinn / Vinnustofa Hilmars,Facebook
+2feebfe8-ed6e-4c66-abb5-57dd3692fbfd,Landssamband sjálfstæðiskvenna,2023-02-21T10:54:49.082Z,815b8f1a-7335-481c-98e6-c6ea1c7ed98c,ZZZ,Iceland,is,497751670242493,Landssamband sjálfstæðiskvenna,Facebook
 ded3bd4f-9cce-4def-87d9-81656062ef38,Vísbending,2023-06-23T05:18:04.301Z,6603a993-1d85-4442-9ff2-6cfd6d79e176,ZZZ,Iceland,is,111020791969904,Vísbending,Facebook
 e9b0895c-03de-4ccc-bf88-b49907898941,Félags- og vinnumarkaðsráðuneytið,2023-11-20T05:08:37.893Z,4682093a-b566-4a1c-b87f-502ab018aba1,ZZZ,Iceland,is,107774317286338,Félags- og vinnumarkaðsráðuneytið,Facebook
+890350af-355a-477d-8dcc-86cf3c6d3d56,Evrópuhreyfingin,2023-02-23T10:54:51.018Z,6656fd7b-b427-4606-8557-3426de88e7db,ZZZ,Iceland,is,102133046017049,Evrópuhreyfingin,Facebook
 0885780d-2169-4f24-9ff1-6482d9384891,Íslandsdeild Amnesty International,2023-11-20T05:08:37.900Z,8e8419f3-c39f-47bb-b2c8-b701d3499938,ZZZ,Iceland,is,55649180171,Íslandsdeild Amnesty International,Facebook
 23f05381-db92-4de9-85fc-3531cb4a7fd1,17. júní í Mosfellsbæ,2023-06-23T06:19:15.922Z,b0e13766-f019-45dd-9788-45ced7498ca9,ZZZ,Iceland,is,1418595571798598,17. júní í Mosfellsbæ,Facebook
 11859bc5-aae3-4712-b7d2-1cd28e5e6c69,Alfreð,2023-07-03T06:17:12.915Z,5a0a8d97-0b64-42f4-a1ff-83c1622ac74a,ZZZ,Iceland,is,332452260196364,Alfreð,Facebook
+33f27d8d-8e2b-4a27-bbb2-32e2529012bc,Borgarleikhúsið,2023-02-24T10:54:55.597Z,cf28b8ca-7177-4cd0-ae00-f29967d544ba,ZZZ,Iceland,is,116586928363474,Borgarleikhúsið,Facebook
 a29f7c71-8375-48dd-9dd9-e7e42c0ac4f2,Maskína,2023-07-03T06:17:12.903Z,3f8f5dff-c94f-45d7-8d9d-a5d4ecb4a997,ZZZ,Iceland,is,246072038839652,Maskína,Facebook
+420bf5df-456c-410b-a88e-e89748042931,Bíó Paradís,2023-09-16T05:08:19.695Z,6e7e6621-667a-4021-b83e-156cfafcba33,ZZZ,Iceland,is,142961965740393,Bíó Paradís,Facebook
+d2986339-de12-4fba-b65e-f66180c1c93d,Smáragarður ehf.,2023-08-29T05:07:57.946Z,285b7611-a03d-46eb-857e-9beb1b6e6449,ZZZ,Iceland,is,1865046390429445,Smáragarður ehf.,Facebook
 3012a8ef-071a-4a60-a647-edf07969d805,Veitingastadir.is - nær allir veitingastaðir landsins,2023-12-24T05:08:08.568Z,c30b34b7-47d8-4bd5-850f-89da0f1b7f79,ZZZ,Iceland,is,140474595983765,Veitingastadir.is - nær allir veitingastaðir landsins,Facebook
+3e87c5ee-ad3a-4fd9-a20e-c13ce72705a7,Loftslagsráð - Icelandic Climate Council,2023-08-29T05:07:57.960Z,3312078d-1926-4381-8ac9-850d7585a08e,ZZZ,Iceland,is,102948841613696,Loftslagsráð - Icelandic Climate Council,Facebook
 fc2748de-e23f-42b8-a23b-de18f4874708,Matvælaráðuneytið,2023-02-07T15:05:54.078Z,b5b6dddd-ad10-4b80-8939-04c3e7df8a7c,ZZZ,Iceland,is,429577173821764,Matvælaráðuneytið,Facebook
 78bb7046-03f3-4ac3-b940-3b5a589f0047,Samstöðin,2023-02-07T15:05:54.110Z,1cf970d6-c63b-42ca-b886-30f835b31920,ZZZ,Iceland,is,106979180938014,Samstöðin,Facebook
 d551800d-cb84-47c8-b93c-347a6b4d87b5,Samtök ferðaþjónustunnar,2023-02-08T06:22:19.437Z,3ec97662-d2fd-4acc-936f-2a78ce1e338e,ZZZ,Iceland,is,192789944066997,Samtök ferðaþjónustunnar,Facebook
+f141435b-836b-4df3-a118-3cf19bb650c7,Andríki,2023-03-03T10:54:54.140Z,ea27ca6c-1f29-4f12-aad9-560ec0c8e336,ZZZ,Iceland,is,165630723862615,Andríki,Facebook
 63776cd8-f86d-4edb-a23e-e34c5e590e91,VÁ - Félag um vernd fjarðar,2023-02-10T10:54:51.825Z,9ee1cda8-c55c-4f47-92ce-b98697e7bb75,ZZZ,Iceland,is,107002601345017,VÁ - Félag um vernd fjarðar,Facebook
+ad5f450b-9087-457d-affb-a65486df474b,Bjórland,2023-08-01T05:08:58.554Z,785f3260-43fc-46c0-bebd-07d6f0ee45f5,ZZZ,Iceland,is,100122588079580,Bjórland,Facebook
 f806a588-8f1a-472f-864f-121358e6ccbf,Túristi.is,2023-02-10T10:54:51.825Z,e3ccd9e5-4f83-4f67-963a-581779afcb52,ZZZ,Iceland,is,361879443846240,Túristi.is,Facebook
 c10f6051-28e3-49ca-8ec8-2b936755f8fc,Sanna Reykjavík,2023-02-10T10:54:51.845Z,be1d55e2-c8db-4b4c-93a9-9760b1679e79,ZZZ,Iceland,is,162409941250265,Sanna Reykjavík,Facebook
+959f54d7-08fb-40c0-8e24-d7ea8f1d43b2,Orkustofnun,2023-03-08T10:55:07.296Z,9ca0ca74-45ed-4a30-b1c8-476e84f707a9,ZZZ,Iceland,is,196907954119033,Orkustofnun,Facebook
 b66bccbe-4d93-459d-82ef-dd71fae257b7,UN Women Ísland,2023-09-22T04:08:37.726Z,71e22766-3a99-4748-a452-7d5724806ad0,ZZZ,Iceland,is,93098810937,UN Women Ísland,Facebook
 ef82db8f-0fd3-4f4c-8bdc-e907fa95ad13,Foreldrasamtök gegn áfengisauglýsingum,2023-03-01T10:54:50.592Z,45e4bfa3-6332-4a52-9971-39517b65d1fa,ZZZ,Iceland,is,441539862613489,Foreldrasamtök gegn áfengisauglýsingum,Facebook
+01b136b1-0c11-46b4-ba7a-07a61e709c18,Viðskiptaráð Íslands,2023-03-08T14:46:34.285Z,b84e8566-504e-43a2-a960-52ea23ddccd7,ZZZ,Iceland,is,148872571795434,Viðskiptaráð Íslands,Facebook
 070a1533-4d26-404a-806a-713a0e45c402,Lifðu núna,2023-04-11T10:54:45.615Z,7186ccc6-4ca4-46a5-a117-0480ffa7269d,ZZZ,Iceland,is,674362009286406,Lifðu núna,Facebook
 f9e65eb2-44f4-49a0-9e77-d0577d58ea52,Íslensk - indverska viðskiptaráðið - ÍIV,2023-09-22T05:08:19.884Z,697874f7-277e-46a3-9817-25de942223bd,ZZZ,Iceland,is,114540789916898,Íslensk - indverska viðskiptaráðið - ÍIV,Facebook
+aaebd322-bffc-4acc-bad7-4956394cdcf0,Ríkislögreglustjóri,2023-03-08T14:46:34.285Z,d9b271d3-ca64-4f52-8e5e-f65895263fbc,ZZZ,Iceland,is,1011307815614890,Ríkislögreglustjóri,Facebook
 de21cd8f-1796-48d3-94c0-79df6e6c0a5e,Forsætisráðuneytið,2023-04-17T08:10:08.479Z,419994a4-987a-4985-991e-fd267c739368,ZZZ,Iceland,is,250725931675,Forsætisráðuneytið,Facebook
 cb6ef16b-42ce-4993-8d10-4d26860fe4bd,Fulltrúaráð sjálfstæðisfélaganna í Rangárvallasýslu,2023-04-16T15:07:10.347Z,9ea95fcf-cdd6-4c13-8a07-043602c0da27,ZZZ,Iceland,is,439162066281959,Fulltrúaráð sjálfstæðisfélaganna í Rangárvallasýslu,Facebook
 14e7653f-82a4-4a03-9a27-eb0372a14e57,Landsvirkjun,2023-03-07T10:54:52.609Z,51f30879-d031-4dff-812e-64fca0eec80a,ZZZ,Iceland,is,128854307193614,Landsvirkjun,Facebook
+f92f4adf-5ed3-4a09-a1ec-b0e11b7185fa,Stöð 2,2023-03-08T14:46:34.285Z,05a511b0-60ba-4ba9-ad82-43f25b97b143,ZZZ,Iceland,is,92267063303,Stöð 2,Facebook
 bc46f892-7289-49df-b217-c6c627305d55,Landvernd umhverfisverndarsamtök,2023-04-28T06:54:41.684Z,85c8ac76-022a-4d83-912b-4d739961d319,ZZZ,Iceland,is,88342113892,Landvernd umhverfisverndarsamtök,Facebook
 1973bd9a-dbc9-4de0-8a73-310130343693,Rótin,2023-10-18T05:08:24.162Z,9eeb6927-e38e-4632-a4ee-e958859524e9,ZZZ,Iceland,is,436551626426579,Rótin,Facebook
+e135d1fd-d1a2-4e90-8c4e-0cfc86818e75,Stjórnarskrárfélagið -The Icelandic Constitution Society,2023-03-08T15:06:23.304Z,27d12bc2-36ee-44a2-abde-025f003c47a6,ZZZ,Iceland,is,157073914303469,Stjórnarskrárfélagið -The Icelandic Constitution Society,Facebook
 f66e298f-4614-4897-9f20-bc448ec457b6,Sjúkraliðafélag Íslands SLFÍ,2023-05-24T06:54:56.795Z,8a083e51-170a-4bc2-a8f4-5ea474628e26,ZZZ,Iceland,is,425304744200657,Sjúkraliðafélag Íslands SLFÍ,Facebook
 e6d6e4ae-3462-4192-b4fc-be728dd808d4,reykjavik_headshop,2023-06-07T06:54:08.846Z,7ed71f36-8f47-44a3-9f1f-0781eeba3a11,ZZZ,Iceland,is,114239621550457,reykjavik_headshop,Facebook
+f3f1f739-faed-4243-8e9d-f1d3f6c94530,Norræna félagið / Foreningen Norden Island,2023-11-11T05:08:08.421Z,0234abf5-8721-4c6b-832e-bb17049d2759,ZZZ,Iceland,is,1410738999227336,Norræna félagið / Foreningen Norden Island,Facebook
 10fc3eba-b85d-4213-90b8-2a0a9d571a9a,BHM,2023-06-15T06:54:29.504Z,fc5fef55-ba13-47d2-910c-e0b19387cd8e,ZZZ,Iceland,is,123226304387484,BHM,Facebook
 688152e9-0909-4c21-a298-c7e88611defe,Smass,2023-06-03T06:54:26.763Z,1897554f-6eb7-491b-ac99-4f991abf0247,ZZZ,Iceland,is,109102682106222,Smass,Facebook
+1763e678-ac9d-4bf0-a509-4b2e300b7272,Jibbybyggir - Gæðakerfi fyrir Meistara og Hönnuði,2023-09-25T05:08:25.814Z,4e2602ec-cf18-42aa-a525-44434ffea009,ZZZ,Iceland,is,874865195857600,Jibbybyggir - Gæðakerfi fyrir Meistara og Hönnuði,Facebook
 612451bc-8dff-425b-aa6e-177b66c5b17c,Hafnarfjarðarbær,2023-12-05T05:08:12.152Z,3cba8806-3ab1-41d4-bd28-889486bc5bbc,ZZZ,Iceland,is,160540443978577,Hafnarfjarðarbær,Facebook
+474416b0-d373-4386-8025-d167722e7ec0,Eduardo Rossell,2023-11-13T05:09:11.535Z,19135dec-73b4-4b36-bb5d-eb80c167d21f,ZZZ,Iceland,is,8840513129,Eduardo Rossell,Facebook
 123fab99-c39f-460a-b1b8-71cc4eeee31c,Græna Orkan,2023-10-20T05:08:29.848Z,41f453cf-fc1c-47d9-9910-0ed010a3e1c8,ZZZ,Iceland,is,168429783285741,Græna Orkan,Facebook
 be9ed333-3c65-4471-9bbe-6d81c824cd67,Dale Carnegie þjálfun,2023-05-04T06:54:15.991Z,07d49019-bb37-4501-970e-c38162f9b8fe,ZZZ,Iceland,is,179641995051,Dale Carnegie þjálfun,Facebook
 62b07651-3147-4718-845d-5183b9a7db56,Miðbæjarrottan,2023-12-18T05:08:41.370Z,d12a7bff-49d5-4d9c-88f8-8bded851b140,ZZZ,Iceland,is,105791617955222,Miðbæjarrottan,Facebook
